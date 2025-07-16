@@ -21,13 +21,13 @@ This repository is designed to improve coding skills, logical thinking, and Pyth
 
 ## 🚦 How to Use
 
-# Clone the repository
+Clone the repository
 git clone https://github.com/Raj96659/python-problem-solving.git
 
-# Navigate to the folder
+Navigate to the folder
 cd python-problem-solving
 
-# Open any `.py` file and run it in your favorite Python environment
+<p>Open any `.py` file and run it in your favorite Python environment</p>
 
 
 ## ✍️ Author
