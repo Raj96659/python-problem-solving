@@ -19,7 +19,18 @@ This repository is designed to improve coding skills, logical thinking, and Pyth
 - **Language**: Python 3.x  
 - **IDE**: Any (VSCode, PyCharm, Jupyter, etc.)
 
-✍️ Author
+## 🚦 How to Use
+
+# Clone the repository
+git clone https://github.com/Raj96659/python-problem-solving.git
+
+# Navigate to the folder
+cd python-problem-solving
+
+# Open any `.py` file and run it in your favorite Python environment
+
+
+## ✍️ Author
 Raj — GitHub
 Data Analyst & Python Developer Enthusiast
 
