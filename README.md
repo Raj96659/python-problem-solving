@@ -29,7 +29,6 @@ cd python-problem-solving
 
 <p>Open any `.py` file and run it in your favorite Python environment</p>
 
-
 ## ✍️ Author
 Raj — GitHub
 Data Analyst & Python Developer Enthusiast
