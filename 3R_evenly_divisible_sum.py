@@ -13,13 +13,16 @@
  # 3 + 6 + 9 = 18
 '''
 
+def func(a,b,c):
+    sum = 0
+    for i in range(a,b+1):
+        if i%c==0:
+            sum = sum +i
+    return sum
+
 a = int(input('a : '))
 b = int(input('b : '))
 c = int(input("Enter the number to divide both : "))
 
-sum = 0
-
-for i in range(a,b+1):
-    if (i%c == 0):
-        sum = sum + i
-print(sum)
+result = func(a,b,c)
+print(result)
